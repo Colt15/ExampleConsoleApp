@@ -1,0 +1,6 @@
+C:\Users\tyler\Desktop\Coder Foundry\ExampleConsoleApp\ExampleConsoleApp\ExampleConsoleApp\bin\Debug\ExampleConsoleApp.exe.config
+C:\Users\tyler\Desktop\Coder Foundry\ExampleConsoleApp\ExampleConsoleApp\ExampleConsoleApp\bin\Debug\ExampleConsoleApp.exe
+C:\Users\tyler\Desktop\Coder Foundry\ExampleConsoleApp\ExampleConsoleApp\ExampleConsoleApp\bin\Debug\ExampleConsoleApp.pdb
+C:\Users\tyler\Desktop\Coder Foundry\ExampleConsoleApp\ExampleConsoleApp\ExampleConsoleApp\obj\Debug\ExampleConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\tyler\Desktop\Coder Foundry\ExampleConsoleApp\ExampleConsoleApp\ExampleConsoleApp\obj\Debug\ExampleConsoleApp.exe
+C:\Users\tyler\Desktop\Coder Foundry\ExampleConsoleApp\ExampleConsoleApp\ExampleConsoleApp\obj\Debug\ExampleConsoleApp.pdb
